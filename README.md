@@ -5,15 +5,15 @@ Tool for measuring the network quality service (QoS) based on packet trains usin
 
 # Installation.
 
-sudo apt-get update
+ sudo apt-get update
 
-make
+ make
 
 # Usage.
 
 To run QoStool execute the following command from the terminal:
 
-sudo ./QoStool IP
+ sudo ./QoStool IP
 
 where IP is the target IP address (e.g., 192.168.1.1).
 
