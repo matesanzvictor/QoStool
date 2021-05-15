@@ -6,6 +6,7 @@ Tool for measuring the network quality service (QoS) based on packet trains usin
 # Installation.
 
 sudo apt-get update
+
 make
 
 # Usage.
