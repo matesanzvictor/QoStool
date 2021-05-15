@@ -21,7 +21,7 @@ For advanced parameters, execute help to see the options:sudo ./QoStool -h
 
 Example: ./QoStool 192.168.1.1 -l 50 -s 10 -p 1500 -i 24 --udp.
 
-where -l is the size of the train (50 packets), -s is the speed in Mbps (10Mbps), -p is the payload size (1500bytes), -i are the bytes of the Preamble, the CRC and the interframe-gap; --udp is the protocol used. It is also possible to send ICMP packets by writting --icmp in the command.
+where -l is the size of the train (50 packets), -s is the speed in Mbps (10Mbps), -p is the payload size (1500bytes), -i is the bytes of the Preamble, the CRC and the interframe-gap; --udp is the protocol used. It is also possible to send ICMP packets by writting --icmp in the command.
 
 Author: Víctor Matesanz Cotillas, 15/05/2021.
 
